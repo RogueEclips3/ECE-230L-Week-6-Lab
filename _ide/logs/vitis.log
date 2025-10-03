@@ -1,0 +1,18 @@
+09:27:43 INFO  : updated workspace path: C:\Users\Joshua\Documents\College\ECE230L\Week_6_Lab_Files
+09:29:11 INFO  : [INFO]: Initializing repositories
+09:29:11 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:29:11 INFO  : Successfully created repository data at C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua9968832765232273270
+09:29:11 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua11158860065277183243 -r C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua9968832765232273270\.repo.yaml
+09:29:12 INFO  : Embedded Template List generated successfully
+09:29:13 INFO  : cmd.exe, /C, empyro.bat repo -st   D:\Xilinx\2025.1\Vitis\data\embeddedsw
+09:29:16 INFO  : [INFO]: Initializing repositories
+09:29:16 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:29:16 INFO  : Successfully created repository data at C:\Users\Joshua\Documents\College\ECE230L\Week_6_Lab_Files/_ide\.wsdata
+09:29:16 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua726877959798249927 -r C:\Users\Joshua\Documents\College\ECE230L\Week_6_Lab_Files\_ide\.wsdata\.repo.yaml
+09:29:17 INFO  : Embedded Template List generated successfully
+09:29:17 INFO  : cmd.exe, /C, empyro.bat repo -st  D:\Xilinx\2025.1\Vitis\data\embeddedsw
+09:29:20 INFO  : [INFO]: Initializing repositories
+09:29:20 INFO  : [INFO]: Successfully set the EmbeddedSW path, refer .repo.yaml for more details.
+09:29:20 INFO  : Successfully created repository data at C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua7647397767591536082
+09:29:20 INFO  : cmd.exe, /C, empyro.bat get_template_data -d C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua14903248268884402596 -r C:\Users\Joshua\AppData\Local\Temp\rigel_lopper_Joshua7647397767591536082\.repo.yaml
+09:29:21 INFO  : Embedded Template List generated successfully
