@@ -65620,3 +65620,2061 @@
 2025-10-03 10:35:32 [debug] : [ProjectDecorator] tree decoration updated 
 2025-10-03 10:35:32 [debug] : [ProjectCache] Project location updated to undefined 
 2025-10-03 10:35:32 [debug] : [ProjectDecorator] tree decoration updated 
+2025-10-03 10:37:50 [debug] : [ProjectCache] fetching projects for project-cache 
+2025-10-03 10:37:50 [debug] : [ProjectDecorator] tree decoration updated 
+2025-10-03 10:37:50 [debug] : [ProjectCache] Project location updated to undefined 
+2025-10-03 10:37:50 [debug] : [ProjectDecorator] tree decoration updated 
+2025-10-03 10:37:56 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/constraints.xdc"}
+2025-10-03 10:37:56 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/constraints.xdc"}
+2025-10-03 10:37:57 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/README.md"}
+2025-10-03 10:37:57 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/README.md"}
+2025-10-03 10:37:58 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/top.v"}
+2025-10-03 10:37:58 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/top.v"}
+2025-10-03 10:38:07 [debug] : [hosted-plugin: 12944] There is no document for breakpointinput:vs.editor.ICodeEditor%3A13 
+2025-10-03 10:40:37 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/light.v"}
+2025-10-03 10:40:37 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/light.v"}
+2025-10-03 10:40:39 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:40:47 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:52:36 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 4,
+        "startColumn": 3,
+        "endLineNumber": 4,
+        "endColumn": 3
+      },
+      "rangeLength": 0,
+      "text": "\r\n",
+      "rangeOffset": 66,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 357,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 5,
+        "startColumn": 1,
+        "endLineNumber": 5,
+        "endColumn": 1
+      },
+      "rangeLength": 0,
+      "text": "\r\n",
+      "rangeOffset": 68,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 358,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:38 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:52:39 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:41 [debug] : [ProjectCache] fetching projects for project-cache 
+2025-10-03 10:52:41 [debug] : [ProjectDecorator] tree decoration updated 
+2025-10-03 10:52:41 [debug] : [ProjectCache] Project location updated to undefined 
+2025-10-03 10:52:41 [debug] : [ProjectDecorator] tree decoration updated 
+2025-10-03 10:52:41 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 1,
+        "endLineNumber": 6,
+        "endColumn": 1
+      },
+      "rangeLength": 0,
+      "text": "    ",
+      "rangeOffset": 70,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 359,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:41 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:41 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:41 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:41 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:42 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:43 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 5,
+        "endLineNumber": 6,
+        "endColumn": 5
+      },
+      "rangeLength": 0,
+      "text": "D",
+      "rangeOffset": 74,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 360,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:43 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:43 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:43 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:43 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:44 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:52:45 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:52:46 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:53:42 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:57:32 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:57:33 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 5,
+        "endLineNumber": 6,
+        "endColumn": 6
+      },
+      "rangeLength": 1,
+      "text": "",
+      "rangeOffset": 74,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 361,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 1,
+        "endLineNumber": 6,
+        "endColumn": 5
+      },
+      "rangeLength": 4,
+      "text": "",
+      "rangeOffset": 70,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 362,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:51 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 5,
+        "startColumn": 1,
+        "endLineNumber": 6,
+        "endColumn": 1
+      },
+      "rangeLength": 2,
+      "text": "",
+      "rangeOffset": 68,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 363,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 4,
+        "startColumn": 3,
+        "endLineNumber": 5,
+        "endColumn": 1
+      },
+      "rangeLength": 2,
+      "text": "",
+      "rangeOffset": 66,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 364,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 4,
+        "startColumn": 3,
+        "endLineNumber": 4,
+        "endColumn": 3
+      },
+      "rangeLength": 0,
+      "text": "\r\n",
+      "rangeOffset": 66,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 365,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 5,
+        "startColumn": 1,
+        "endLineNumber": 5,
+        "endColumn": 1
+      },
+      "rangeLength": 0,
+      "text": "\r\n",
+      "rangeOffset": 68,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 366,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 1,
+        "endLineNumber": 6,
+        "endColumn": 1
+      },
+      "rangeLength": 0,
+      "text": "    ",
+      "rangeOffset": 70,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 367,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 1,
+        "endLineNumber": 6,
+        "endColumn": 5
+      },
+      "rangeLength": 4,
+      "text": "",
+      "rangeOffset": 70,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 368,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:52 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 5,
+        "startColumn": 1,
+        "endLineNumber": 6,
+        "endColumn": 1
+      },
+      "rangeLength": 2,
+      "text": "",
+      "rangeOffset": 68,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 369,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 4,
+        "startColumn": 3,
+        "endLineNumber": 5,
+        "endColumn": 1
+      },
+      "rangeLength": 2,
+      "text": "",
+      "rangeOffset": 66,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 370,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 25,
+        "endLineNumber": 6,
+        "endColumn": 29
+      },
+      "rangeLength": 4,
+      "text": "",
+      "rangeOffset": 94,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 371,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 23,
+        "endLineNumber": 6,
+        "endColumn": 25
+      },
+      "rangeLength": 2,
+      "text": "",
+      "rangeOffset": 92,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 372,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 21,
+        "endLineNumber": 6,
+        "endColumn": 23
+      },
+      "rangeLength": 2,
+      "text": "",
+      "rangeOffset": 90,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 373,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 19,
+        "endLineNumber": 6,
+        "endColumn": 21
+      },
+      "rangeLength": 2,
+      "text": "",
+      "rangeOffset": 88,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 374,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:53 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 18,
+        "endLineNumber": 6,
+        "endColumn": 19
+      },
+      "rangeLength": 1,
+      "text": "",
+      "rangeOffset": 87,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 375,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 18,
+        "endLineNumber": 6,
+        "endColumn": 18
+      },
+      "rangeLength": 0,
+      "text": "(~A & (B ^ Cin)) | (A & ~(B ^ Cin))",
+      "rangeOffset": 87,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 376,
+  "isUndoing": true,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:54 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 18,
+        "endLineNumber": 6,
+        "endColumn": 53
+      },
+      "rangeLength": 35,
+      "text": "",
+      "rangeOffset": 87,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 377,
+  "isUndoing": false,
+  "isRedoing": true,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 18,
+        "endLineNumber": 6,
+        "endColumn": 18
+      },
+      "rangeLength": 0,
+      "text": "A",
+      "rangeOffset": 87,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 378,
+  "isUndoing": false,
+  "isRedoing": true,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 19,
+        "endLineNumber": 6,
+        "endColumn": 19
+      },
+      "rangeLength": 0,
+      "text": " ^",
+      "rangeOffset": 88,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 379,
+  "isUndoing": false,
+  "isRedoing": true,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:55 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 21,
+        "endLineNumber": 6,
+        "endColumn": 21
+      },
+      "rangeLength": 0,
+      "text": " B",
+      "rangeOffset": 90,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 380,
+  "isUndoing": false,
+  "isRedoing": true,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 23,
+        "endLineNumber": 6,
+        "endColumn": 23
+      },
+      "rangeLength": 0,
+      "text": " ^",
+      "rangeOffset": 92,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 381,
+  "isUndoing": false,
+  "isRedoing": true,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 6,
+        "startColumn": 25,
+        "endLineNumber": 6,
+        "endColumn": 25
+      },
+      "rangeLength": 0,
+      "text": " Cin",
+      "rangeOffset": 94,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 382,
+  "isUndoing": false,
+  "isRedoing": true,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:56 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:57:57 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 10:58:01 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:18 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:20 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:21 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:22 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:23 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:23 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:25 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:26 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:27 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:27 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 19,
+        "endLineNumber": 7,
+        "endColumn": 53
+      },
+      "rangeLength": 34,
+      "text": "",
+      "rangeOffset": 119,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 383,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 19,
+        "endLineNumber": 7,
+        "endColumn": 19
+      },
+      "rangeLength": 0,
+      "text": ")",
+      "rangeOffset": 119,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 384,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 20,
+        "endLineNumber": 7,
+        "endColumn": 20
+      },
+      "rangeLength": 0,
+      "text": "()",
+      "rangeOffset": 120,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 385,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:29 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 20,
+        "endLineNumber": 7,
+        "endColumn": 22
+      },
+      "rangeLength": 2,
+      "text": "",
+      "rangeOffset": 120,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 386,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 19,
+        "endLineNumber": 7,
+        "endColumn": 20
+      },
+      "rangeLength": 1,
+      "text": "",
+      "rangeOffset": 119,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 387,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 19,
+        "endLineNumber": 7,
+        "endColumn": 19
+      },
+      "rangeLength": 0,
+      "text": "()",
+      "rangeOffset": 119,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 388,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 20,
+        "endLineNumber": 7,
+        "endColumn": 21
+      },
+      "rangeLength": 1,
+      "text": ")",
+      "rangeOffset": 120,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 389,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:30 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:31 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 20,
+        "endLineNumber": 7,
+        "endColumn": 20
+      },
+      "rangeLength": 0,
+      "text": "A",
+      "rangeOffset": 120,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 390,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:31 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:31 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:31 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:31 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 21,
+        "endLineNumber": 7,
+        "endColumn": 21
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 121,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 391,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 22,
+        "endLineNumber": 7,
+        "endColumn": 22
+      },
+      "rangeLength": 0,
+      "text": "&",
+      "rangeOffset": 122,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 392,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:32 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:33 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 23,
+        "endLineNumber": 7,
+        "endColumn": 23
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 123,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 393,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 24,
+        "endLineNumber": 7,
+        "endColumn": 24
+      },
+      "rangeLength": 0,
+      "text": "B",
+      "rangeOffset": 124,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 394,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:34 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:35 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:35 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 26,
+        "endLineNumber": 7,
+        "endColumn": 26
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 126,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 395,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:35 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:35 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:35 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:35 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 27,
+        "endLineNumber": 7,
+        "endColumn": 27
+      },
+      "rangeLength": 0,
+      "text": "|",
+      "rangeOffset": 127,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 396,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 28,
+        "endLineNumber": 7,
+        "endColumn": 28
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 128,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 397,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 29,
+        "endLineNumber": 7,
+        "endColumn": 29
+      },
+      "rangeLength": 0,
+      "text": "()",
+      "rangeOffset": 129,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 398,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:36 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:37 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 30,
+        "endLineNumber": 7,
+        "endColumn": 30
+      },
+      "rangeLength": 0,
+      "text": "A",
+      "rangeOffset": 130,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 399,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 31,
+        "endLineNumber": 7,
+        "endColumn": 31
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 131,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 400,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:38 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 31,
+        "endLineNumber": 7,
+        "endColumn": 32
+      },
+      "rangeLength": 1,
+      "text": "",
+      "rangeOffset": 131,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 401,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 30,
+        "endLineNumber": 7,
+        "endColumn": 31
+      },
+      "rangeLength": 1,
+      "text": "",
+      "rangeOffset": 130,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 402,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:39 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 30,
+        "endLineNumber": 7,
+        "endColumn": 30
+      },
+      "rangeLength": 0,
+      "text": "B",
+      "rangeOffset": 130,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 403,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 31,
+        "endLineNumber": 7,
+        "endColumn": 31
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 131,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 404,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 32,
+        "endLineNumber": 7,
+        "endColumn": 32
+      },
+      "rangeLength": 0,
+      "text": "&",
+      "rangeOffset": 132,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 405,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:40 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 33,
+        "endLineNumber": 7,
+        "endColumn": 33
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 133,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 406,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 34,
+        "endLineNumber": 7,
+        "endColumn": 34
+      },
+      "rangeLength": 0,
+      "text": "C",
+      "rangeOffset": 134,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 407,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 35,
+        "endLineNumber": 7,
+        "endColumn": 35
+      },
+      "rangeLength": 0,
+      "text": "i",
+      "rangeOffset": 135,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 408,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 36,
+        "endLineNumber": 7,
+        "endColumn": 36
+      },
+      "rangeLength": 0,
+      "text": "n",
+      "rangeOffset": 136,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 409,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:41 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 38,
+        "endLineNumber": 7,
+        "endColumn": 38
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 138,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 410,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 39,
+        "endLineNumber": 7,
+        "endColumn": 39
+      },
+      "rangeLength": 0,
+      "text": "|",
+      "rangeOffset": 139,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 411,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:42 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 40,
+        "endLineNumber": 7,
+        "endColumn": 40
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 140,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 412,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 41,
+        "endLineNumber": 7,
+        "endColumn": 41
+      },
+      "rangeLength": 0,
+      "text": "()",
+      "rangeOffset": 141,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 413,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 42,
+        "endLineNumber": 7,
+        "endColumn": 43
+      },
+      "rangeLength": 1,
+      "text": ")",
+      "rangeOffset": 142,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 414,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:43 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:44 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:45 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 42,
+        "endLineNumber": 7,
+        "endColumn": 42
+      },
+      "rangeLength": 0,
+      "text": "A",
+      "rangeOffset": 142,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 415,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:45 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:45 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:45 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:45 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 43,
+        "endLineNumber": 7,
+        "endColumn": 43
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 143,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 416,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 44,
+        "endLineNumber": 7,
+        "endColumn": 44
+      },
+      "rangeLength": 0,
+      "text": "&",
+      "rangeOffset": 144,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 417,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 45,
+        "endLineNumber": 7,
+        "endColumn": 45
+      },
+      "rangeLength": 0,
+      "text": " ",
+      "rangeOffset": 145,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 418,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:46 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 46,
+        "endLineNumber": 7,
+        "endColumn": 46
+      },
+      "rangeLength": 0,
+      "text": "C",
+      "rangeOffset": 146,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 419,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 47,
+        "endLineNumber": 7,
+        "endColumn": 47
+      },
+      "rangeLength": 0,
+      "text": "i",
+      "rangeOffset": 147,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 420,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.fireDidChangeContent - enter - {
+  "changes": [
+    {
+      "range": {
+        "startLineNumber": 7,
+        "startColumn": 48,
+        "endLineNumber": 7,
+        "endColumn": 48
+      },
+      "rangeLength": 0,
+      "text": "n",
+      "rangeOffset": 148,
+      "forceMoveMarkers": false
+    }
+  ],
+  "eol": "\r\n",
+  "isEolChange": false,
+  "versionId": 421,
+  "isUndoing": false,
+  "isRedoing": false,
+  "isFlush": false
+} {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.markAsDirty - enter {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.cancelSync {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.markAsDirty - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:47 [debug] : MonacoEditorModel.fireDidChangeContent - exit {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:00:48 [debug] : MonacoEditorModel.cancelSave {"0":"file:///c:/Users/Joshua/Documents/College/ECE230L/Week_6_Lab_Files/full_adder.v"}
+2025-10-03 11:01:19 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:01:19 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:01:22 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:01:23 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:01:23 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:01:24 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
+2025-10-03 11:01:25 [debug] : [hosted-plugin: 12944] TypeError: Cannot read properties of undefined (reading 'replace')
+    at ee.onActiveLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:35:1404)
+    at Te.<computed> (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:209:4816)
+    at D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15380
+    at s.invoke (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:15470)
+    at a.fire (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\lib\backend\19.js:1:17273)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6138)
+    at Ji.fireLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:8100)
+    at Ji.onLinesChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6753)
+    at Ji.trigger (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:6162)
+    at Ji.onTextEditorSelectionChanged (D:\Xilinx\2025.1\Vitis\ide\electron-app\win64\resources\app\plugins\eamodio-gitlens\extension\dist\gitlens.js:39:4322) 
